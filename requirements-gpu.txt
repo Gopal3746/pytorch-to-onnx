@@ -1,0 +1,4 @@
+# Optional CUDA environment note:
+# Install a CUDA-compatible PyTorch build following pytorch.org first.
+# The core ONNX Runtime comparison in this project is intentionally CPU-only.
+-e .[dev]
